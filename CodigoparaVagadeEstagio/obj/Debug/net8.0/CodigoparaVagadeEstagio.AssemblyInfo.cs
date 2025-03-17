@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodigoparaVagadeEstagio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70eab2696d80f9522077f679e44fad737eb56e18")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodigoparaVagadeEstagio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodigoparaVagadeEstagio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
